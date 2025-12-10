@@ -10,11 +10,7 @@ It uses **Named Entity Recognition (NER)**, network analysis, and visualizations
 
 ## 🚀 Authors
 
-- [Ananya Verma](https://github.com/Ananyaearth)
-- [Manav Khambhayata](https://github.com/ManavKhambhayata)
-- [Aniruddha Singh](https://github.com/extinct-anni)
-- [Smarak Patnaik](https://github.com/smarak96)
-- [Kanha Tayal](https://github.com/Kanhatayal)
+- [Abhi Sharmika](https://github.com/abhisharmika)
   
 ---
 
